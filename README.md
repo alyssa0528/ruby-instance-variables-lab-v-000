@@ -1,4 +1,4 @@
-# Instance Variables
+yeezy# Instance Variables
 
 ## Objectives
 1. Define instance variables.
